@@ -1,0 +1,10 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 ,1,"10uF","Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder","C39232"
+C2 ,1,"1uF","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder","C15849"
+C4 ,1,"1nF","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder"," C1588"
+C7 C8 C3 ,3,"100nF","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder","C14663"
+C9 C6 C5 ,3,"220pF","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder"," C1603"
+FB1 FB2 ,2,"Ferrite_Bead","Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder","C85824"
+J1 J3 J4 J5 J6 J2 ,6,"Conn_01x01","Chimere:Castellated_conn","~"
+R1 R2 ,2,"10k","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder"," C25804"
+U1 ,1,"PAM8302AAS","Package_SO:SOP-8_3.9x4.9mm_P1.27mm","C112137"
