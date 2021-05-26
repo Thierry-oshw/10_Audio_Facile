@@ -33,36 +33,6 @@ Text GLabel 4175 3125 0    50   Input ~ 0
 Wire Wire Line
 	4175 3125 4175 3425
 $Comp
-L Device:R R?
-U 1 1 5FE62915
-P 3550 3625
-AR Path="/5FC6D1B4/5FE62915" Ref="R?"  Part="1" 
-AR Path="/5FC6C772/5FE62915" Ref="R?"  Part="1" 
-AR Path="/5FE62915" Ref="R1"  Part="1" 
-F 0 "R1" V 3450 3625 50  0000 C CNN
-F 1 "10k" V 3550 3625 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3480 3625 50  0001 C CNN
-F 3 " C25804" H 3550 3625 50  0001 C CNN
-	1    3550 3625
-	0    1    1    0   
-$EndComp
-$Comp
-L Device:R R?
-U 1 1 5FE62EEF
-P 2700 3825
-AR Path="/5FC6D1B4/5FE62EEF" Ref="R?"  Part="1" 
-AR Path="/5FC6C772/5FE62EEF" Ref="R?"  Part="1" 
-AR Path="/5FE62EEF" Ref="R2"  Part="1" 
-F 0 "R2" V 2600 3825 50  0000 C CNN
-F 1 "10k" V 2700 3825 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 2630 3825 50  0001 C CNN
-F 3 " C25804" H 2700 3825 50  0001 C CNN
-	1    2700 3825
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	3700 3625 3775 3625
-$Comp
 L Device:C C7
 U 1 1 5FE6816C
 P 3125 3625
@@ -84,10 +54,6 @@ F 3 "C14663" H 2300 3825 50  0001 C CNN
 	1    2300 3825
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	2450 3825 2550 3825
-Wire Wire Line
-	3275 3625 3400 3625
 Text GLabel 2850 3625 0    50   Input ~ 0
 GND
 Wire Wire Line
@@ -134,8 +100,6 @@ Wire Wire Line
 Connection ~ 3650 2300
 Text Notes 8675 2550 0    50   ~ 0
 PAM8302\nC112137\nPackage_SO:SOP-8_3.9x4.9mm_P1.27mm\n\nOU\n\nC113367\nPackage_SO:MSOP-8_3x3mm_P0.65mm
-Wire Wire Line
-	2850 3825 3775 3825
 $Bitmap
 Pos 9275 4400
 Scale 1.000000
@@ -1298,4 +1262,8 @@ Wire Wire Line
 	3650 1775 3650 1900
 Wire Wire Line
 	3650 2300 3650 2450
+Wire Wire Line
+	3275 3625 3775 3625
+Wire Wire Line
+	2450 3825 3775 3825
 $EndSCHEMATC
