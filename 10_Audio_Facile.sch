@@ -1170,7 +1170,7 @@ U 1 1 606CE97F
 P 4300 5075
 F 0 "J1" H 4380 5117 50  0000 L CNN
 F 1 "Conn_01x01" H 4380 5026 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4300 5075 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4300 5075 50  0001 C CNN
 F 3 "~" H 4300 5075 50  0001 C CNN
 	1    4300 5075
 	1    0    0    -1  
@@ -1191,7 +1191,7 @@ U 1 1 606CFC19
 P 4300 5425
 F 0 "J3" H 4380 5467 50  0000 L CNN
 F 1 "Conn_01x01" H 4380 5376 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4300 5425 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4300 5425 50  0001 C CNN
 F 3 "~" H 4300 5425 50  0001 C CNN
 	1    4300 5425
 	1    0    0    -1  
@@ -1202,7 +1202,7 @@ U 1 1 606CFDE9
 P 4300 5600
 F 0 "J4" H 4380 5642 50  0000 L CNN
 F 1 "Conn_01x01" H 4380 5551 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4300 5600 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4300 5600 50  0001 C CNN
 F 3 "~" H 4300 5600 50  0001 C CNN
 	1    4300 5600
 	1    0    0    -1  
@@ -1213,7 +1213,7 @@ U 1 1 606D0061
 P 4300 5775
 F 0 "J5" H 4380 5817 50  0000 L CNN
 F 1 "Conn_01x01" H 4380 5726 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4300 5775 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4300 5775 50  0001 C CNN
 F 3 "~" H 4300 5775 50  0001 C CNN
 	1    4300 5775
 	1    0    0    -1  
@@ -1224,7 +1224,7 @@ U 1 1 606D0479
 P 4300 5950
 F 0 "J6" H 4380 5992 50  0000 L CNN
 F 1 "Conn_01x01" H 4380 5901 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4300 5950 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4300 5950 50  0001 C CNN
 F 3 "~" H 4300 5950 50  0001 C CNN
 	1    4300 5950
 	1    0    0    -1  
@@ -1249,7 +1249,7 @@ U 1 1 606D5E52
 P 4300 5250
 F 0 "J2" H 4380 5292 50  0000 L CNN
 F 1 "Conn_01x01" H 4380 5201 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4300 5250 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4300 5250 50  0001 C CNN
 F 3 "~" H 4300 5250 50  0001 C CNN
 	1    4300 5250
 	1    0    0    -1  
