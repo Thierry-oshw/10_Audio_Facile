@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name Chimere_comps)(type Legacy)(uri $KI_GITHUB/00_chimere_lib/chimere_symbol.lib)(options "")(descr ""))
-  (lib (name Chimere_mods)(type Legacy)(uri $KI_GITHUB/00_chimere_lib/Chimere_mods.lib)(options "")(descr ""))
+  (lib (name "Chimere_comps")(type "Legacy")(uri "$KI_GITHUB/00_chimere_lib/chimere_symbol.lib")(options "")(descr ""))
+  (lib (name "Chimere_mods")(type "Legacy")(uri "$KI_GITHUB/00_chimere_lib/Chimere_mods.lib")(options "")(descr ""))
+  (lib (name "10_Audio_Facile-rescue")(type "Legacy")(uri "${KIPRJMOD}/10_Audio_Facile-rescue.lib")(options "")(descr ""))
 )
