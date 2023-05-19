@@ -423,7 +423,7 @@
       "idf": "",
       "netlist": "10_Audio_Facile.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Audio_Facile.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
